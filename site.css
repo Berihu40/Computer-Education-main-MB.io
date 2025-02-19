@@ -114,12 +114,6 @@
   form button:hover {
     background-color: #ff7e5f;
   }
-  
-  img {
-    width: 200px;
-    border-radius: 25%;
-    border: 2px solid white;
-    margin-right: 10px; /* Space between image and heading */
-  }
+
 
   
